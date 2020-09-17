@@ -1,7 +1,7 @@
 cookies = [
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1663288581,
+    "expirationDate": 1663413398,
     "hostOnly": False,
     "httpOnly": False,
     "name": "__gads",
@@ -10,12 +10,12 @@ cookies = [
     "secure": False,
     "session": False,
     "storeId": "0",
-    "value": "ID=60317ae244441820:T=1600216581:S=ALNI_MbaL7Q0blWiz3zOAgfJhp-Ps2ZxyQ",
+    "value": "ID=33c91ac7e785fff7:T=1600341398:S=ALNI_MZRjPP0WT0WUrVEKyO53WZgvw_OLQ",
     "id": 1
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1631821101.761882,
+    "expirationDate": 1631878506.3337,
     "hostOnly": False,
     "httpOnly": False,
     "name": "_abck",
@@ -24,17 +24,17 @@ cookies = [
     "secure": True,
     "session": False,
     "storeId": "0",
-    "value": "8C53284FF54AA6C173D81EBADD9F9565~0~YAAQp3EfRde+5pR0AQAA29BsmATQEN2E42vBUbOhuX6j+3MKc3W1kcciZ36n5J+3DUxONOYofbQf8koj0PRNVmrcdfNk2PXUbZW56F596n1oh/9puQRU1p7JUyUU/C+PkbBEbmecwMWs+yNcySVAdqfku0s57R4QKgooOhG5JTfTWz6reA61bztFBDa2DBNM21uKVvkp+3kJP6iu/c3t4qNnYKwzyeYKylgY19ZOp1OCNqaPXzBWm9XwsRGky95sdHyOvdDsnmI2xKqMiv5wtOtdvUtu5eRlBeqrjR0FyMQmdPcy1unQ3Mw3Ju9kWHNElH2C4quXdTE=~-1~-1~-1",
+    "value": "A58089528A395C583887B2233A7285FF~0~YAAQ9TTfrR4NMZp0AQAAVrvYmwSGpA2TKXqrhUZHJ4CAuu4AKo99v+ZKF2AH/B/1zGYdTj9Nwqg2CGD8oNWd55qN7F8aegAhgSzt5v/1HQfoip9iuPlVhE6svLpNFerV7MAk0mwSLCAHbQGPIO5/m0c7iFAKBqZ1KSopUi13Hy4kqFMv5uaTCg6aTgT4qmqmPtEq6lFJuOoDiC0SjLtYzsoJKLvbtMpC+GSDX6pRh4FqsLQnoxoRQR45wAc5l+RsKPkSAWHUcQFny06eLOyDJALZrx+U6b6OliDK6+gbnNZ+h3Muatxzui9PCa8cWBRsOwO9R6ma6bE=~-1~||-1||~-1",
     "id": 2
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1634380584,
+    "expirationDate": 1634505402,
     "hostOnly": False,
     "httpOnly": False,
     "name": "_cs_c",
     "path": "/",
-    "sameSite": "unspecified",
+    "sameSite": "lax",
     "secure": False,
     "session": False,
     "storeId": "0",
@@ -43,7 +43,7 @@ cookies = [
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1634380584,
+    "expirationDate": 1634505402,
     "hostOnly": False,
     "httpOnly": False,
     "name": "_cs_id",
@@ -52,7 +52,7 @@ cookies = [
     "secure": False,
     "session": False,
     "storeId": "0",
-    "value": "eb6293d7-f8de-a95d-f41b-b5fa6d665ddd.1600216584.5.1600286578.1600285107.1.1634380584818.Lax.0",
+    "value": "068c753a-f8de-a381-e8bc-0fc8cf548c61.1600341402.1.1600342508.1600341402.1.1634505402630.Lax.0",
     "id": 4
 },
 {
@@ -65,12 +65,12 @@ cookies = [
     "secure": False,
     "session": True,
     "storeId": "0",
-    "value": "0.10476485377786493_1600285108182",
+    "value": "0.27468988342956635_1600341401323",
     "id": 5
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1600288378,
+    "expirationDate": 1600344308,
     "hostOnly": False,
     "httpOnly": False,
     "name": "_cs_s",
@@ -79,12 +79,12 @@ cookies = [
     "secure": False,
     "session": False,
     "storeId": "0",
-    "value": "2.1",
+    "value": "6.1",
     "id": 6
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1608062578,
+    "expirationDate": 1608118508,
     "hostOnly": False,
     "httpOnly": False,
     "name": "_gcl_au",
@@ -93,12 +93,12 @@ cookies = [
     "secure": False,
     "session": False,
     "storeId": "0",
-    "value": "1.1.31701597.1600216585",
+    "value": "1.1.915085526.1600341403",
     "id": 7
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1602826256,
+    "expirationDate": 1602934508,
     "hostOnly": False,
     "httpOnly": False,
     "name": "aam_uuid",
@@ -107,26 +107,12 @@ cookies = [
     "secure": False,
     "session": False,
     "storeId": "0",
-    "value": "72560800917585442491210666315096757351",
+    "value": "21839372543304862913019333783188242098",
     "id": 8
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1602819332,
-    "hostOnly": False,
-    "httpOnly": False,
-    "name": "aamoptsegs",
-    "path": "/",
-    "sameSite": "unspecified",
-    "secure": False,
-    "session": False,
-    "storeId": "0",
-    "value": "aam%3D9208968",
-    "id": 9
-},
-{
-    "domain": ".bestbuy.com",
-    "expirationDate": 1663358580.488455,
+    "expirationDate": 1663414508.535992,
     "hostOnly": False,
     "httpOnly": False,
     "name": "AMCV_F6301253512D2BDB0A490D45%40AdobeOrg",
@@ -135,8 +121,8 @@ cookies = [
     "secure": False,
     "session": False,
     "storeId": "0",
-    "value": "1585540135%7CMCMID%7C78949028452210719631868911039568788805%7CMCAAMLH-1600889908%7C9%7CMCAAMB-1600889908%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1600292308s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C4.4.0%7CMCCIDH%7C1881515781",
-    "id": 10
+    "value": "1585540135%7CMCMID%7C16878531079190874092361089332587485072%7CMCAAMLH-1600946410%7C9%7CMCAAMB-1600946410%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1600348810s%7CNONE%7CMCAID%7CNONE%7CMCCIDH%7C1519407706%7CvVersion%7C4.4.0",
+    "id": 9
 },
 {
     "domain": ".bestbuy.com",
@@ -149,11 +135,25 @@ cookies = [
     "session": True,
     "storeId": "0",
     "value": "1",
+    "id": 10
+},
+{
+    "domain": ".bestbuy.com",
+    "expirationDate": 1641814391.525757,
+    "hostOnly": False,
+    "httpOnly": True,
+    "name": "at",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": True,
+    "session": False,
+    "storeId": "0",
+    "value": "eyJhY2Nlc3NUb2tlbiI6IllXTXRrUDgtX19qWkVlcXF2UUJRVnE2UkxVYTZ0UVhEZWsyMW9pSmVWcENzNDJVR0tlM2pBQUFBQUFBQUFBQSIsInRpbWVUb0xpdmUiOjg2NDAwLCJpc3N1ZWRUaW1lc3RhbXAiOjE2MDAzNDIzOTEyNDYsImFzc2VydGlvbiI6InU6VjgxUnZpNEpMMVlmajZrQnFpa3dqZjZxT21EV2UzaFpVRVhrcmhENkdvQSIsInByaW5jaXBhbCI6InU6VjgxUnZpNEpMMVlmajZrQnFpa3dqZjZxT21EV2UzaFpVRVhrcmhENkdvQSIsInByaW5jaXBhbElkZW50aWZpZXIiOiJkN2EwYTAyMC1mOGEyLTExZWEtYTVhMi0wMDUwNTZhZTkxYzYiLCJjb25zdW1hYmxlIjpmYWxzZSwidmVyc2lvbiI6IjEuMCIsImdyaWQiOiJNRE01WWpsallURm1aamRpTlRsalpERTRNR0k1TUdRMlpUVmxORGxrT1dRIn0.DOSe90Dj37UQ5d-N34OAIfHEwUjOI8gPttnD-Z-oJIpjIKGP5Nv0t4sd7SeSxuyivF4eRqxs87dE2unfU0S-4Q",
     "id": 11
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1608062591.134356,
+    "expirationDate": 1608118508.352553,
     "hostOnly": False,
     "httpOnly": False,
     "name": "basketTimestamp",
@@ -162,12 +162,12 @@ cookies = [
     "secure": False,
     "session": False,
     "storeId": "0",
-    "value": "1600286578999",
+    "value": "1600342507978",
     "id": 12
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1600287169.966332,
+    "expirationDate": 1600342979.247218,
     "hostOnly": False,
     "httpOnly": False,
     "name": "bby_cbc_lb",
@@ -181,7 +181,21 @@ cookies = [
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1600287174.754734,
+    "expirationDate": 1600342989.936844,
+    "hostOnly": False,
+    "httpOnly": True,
+    "name": "bby_idn_lb",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": True,
+    "session": False,
+    "storeId": "0",
+    "value": "p-idn-b",
+    "id": 14
+},
+{
+    "domain": ".bestbuy.com",
+    "expirationDate": 1600343106.000103,
     "hostOnly": False,
     "httpOnly": False,
     "name": "bby_loc_lb",
@@ -191,11 +205,11 @@ cookies = [
     "session": False,
     "storeId": "0",
     "value": "p-loc-w",
-    "id": 14
+    "id": 15
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1600287173.791866,
+    "expirationDate": 1600342981.417744,
     "hostOnly": False,
     "httpOnly": True,
     "name": "bby_prc_lb",
@@ -205,25 +219,11 @@ cookies = [
     "session": False,
     "storeId": "0",
     "value": "p-prc-w",
-    "id": 15
-},
-{
-    "domain": ".bestbuy.com",
-    "expirationDate": 1603831181.907373,
-    "hostOnly": False,
-    "httpOnly": False,
-    "name": "bby_prf_csc",
-    "path": "/",
-    "sameSite": "unspecified",
-    "secure": False,
-    "session": False,
-    "storeId": "0",
-    "value": "686cb0c0-9899-499e-92da-929f7cb15b46",
     "id": 16
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1600302978.340373,
+    "expirationDate": 1600427796.717082,
     "hostOnly": False,
     "httpOnly": False,
     "name": "bby_rdp",
@@ -237,7 +237,21 @@ cookies = [
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1600299500.761907,
+    "expirationDate": 1600343338.47416,
+    "hostOnly": False,
+    "httpOnly": False,
+    "name": "bby_txco_lb",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": False,
+    "session": False,
+    "storeId": "0",
+    "value": "p-txco-a",
+    "id": 18
+},
+{
+    "domain": ".bestbuy.com",
+    "expirationDate": 1600355796.717028,
     "hostOnly": False,
     "httpOnly": True,
     "name": "bm_sz",
@@ -246,12 +260,12 @@ cookies = [
     "secure": False,
     "session": False,
     "storeId": "0",
-    "value": "B81FEE381684117D9B7057B0EE848FFB~YAAQp3EfRda+5pR0AQAA29BsmAmvb0FJWpzZLjP7enEm5ziOixz45r3MYCX9ttvr8GGq7CMCdm/KTa+LFOlScM8JOR38ojj3Jid5gYnwYw7Tq6FiDklnhHZmtdfVtwDqrq48CSC01yz/XULsupVGprXhdBEKtXg2H9vdePXqAWehkXccHeXuPrL1AhTgRxb4LQ==",
-    "id": 18
+    "value": "A7792BAE33D34D71484FB1EC326783FD~YAAQ5jTfrbVy6W10AQAASMvHmwl69doGQmYkrAoKxEtGQ/124B9bUB78D3PXGB+j5Q0+OHLXD3BR6GR0+soTUVATNq9XaW2+meTHSb08bRVsfZ+pkQf6diqEiJpNeO3vUaddaG3n1CxBv98UkpkO2fL7S+4psTcZDfj1EbLHCHdi6Y7hpRv+96CxWDKE+g99jg==",
+    "id": 19
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1600288388,
+    "expirationDate": 1600344308,
     "hostOnly": False,
     "httpOnly": False,
     "name": "c2",
@@ -261,11 +275,11 @@ cookies = [
     "session": False,
     "storeId": "0",
     "value": "Checkout%3A%20Cart%20-%20Index",
-    "id": 19
+    "id": 20
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1608062579.066584,
+    "expirationDate": 1608118507.043491,
     "hostOnly": False,
     "httpOnly": False,
     "name": "CartItemCount",
@@ -275,7 +289,7 @@ cookies = [
     "session": False,
     "storeId": "0",
     "value": "0",
-    "id": 20
+    "id": 21
 },
 {
     "domain": ".bestbuy.com",
@@ -287,12 +301,12 @@ cookies = [
     "secure": False,
     "session": True,
     "storeId": "0",
-    "value": "2020-09-16T19%3A38%3A22.126Z",
-    "id": 21
+    "value": "2020-09-17T11%3A16%3A37.835Z",
+    "id": 22
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1600286879.066362,
+    "expirationDate": 1600342807.043441,
     "hostOnly": False,
     "httpOnly": False,
     "name": "cst_lb",
@@ -302,11 +316,11 @@ cookies = [
     "session": False,
     "storeId": "0",
     "value": "p-cart-cloud",
-    "id": 22
+    "id": 23
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1600319691,
+    "expirationDate": 1600428841,
     "hostOnly": False,
     "httpOnly": False,
     "name": "CTE1",
@@ -316,25 +330,11 @@ cookies = [
     "session": False,
     "storeId": "0",
     "value": "F",
-    "id": 23
-},
-{
-    "domain": ".bestbuy.com",
-    "expirationDate": 1600372990,
-    "hostOnly": False,
-    "httpOnly": False,
-    "name": "CTE22",
-    "path": "/",
-    "sameSite": "unspecified",
-    "secure": False,
-    "session": False,
-    "storeId": "0",
-    "value": "T",
     "id": 24
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1600319627,
+    "expirationDate": 1600428841,
     "hostOnly": False,
     "httpOnly": False,
     "name": "CTE30",
@@ -348,7 +348,7 @@ cookies = [
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1600319627.354031,
+    "expirationDate": 1600428838.474652,
     "hostOnly": False,
     "httpOnly": False,
     "name": "CTE4",
@@ -362,7 +362,7 @@ cookies = [
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1607992578.340313,
+    "expirationDate": 1608117396.717174,
     "hostOnly": False,
     "httpOnly": False,
     "name": "CTT",
@@ -371,12 +371,12 @@ cookies = [
     "secure": False,
     "session": False,
     "storeId": "0",
-    "value": "577a29620d8f8d7c82b83f702fd1cbd0",
+    "value": "cbeef48b0873c496bf2d01d28261a4c0",
     "id": 27
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1608066174,
+    "expirationDate": 1608122106,
     "hostOnly": False,
     "httpOnly": False,
     "name": "customerZipCode",
@@ -385,12 +385,40 @@ cookies = [
     "secure": False,
     "session": False,
     "storeId": "0",
-    "value": "91303|Y",
+    "value": "90220|Y",
     "id": 28
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1600287769.96655,
+    "expirationDate": 1641814391.525849,
+    "hostOnly": False,
+    "httpOnly": True,
+    "name": "DYN_USER_CONFIRM",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": False,
+    "session": False,
+    "storeId": "0",
+    "value": "3b7522536585197b263727e3b1383881",
+    "id": 29
+},
+{
+    "domain": ".bestbuy.com",
+    "expirationDate": 1641814391.525897,
+    "hostOnly": False,
+    "httpOnly": True,
+    "name": "DYN_USER_ID",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": False,
+    "session": False,
+    "storeId": "0",
+    "value": "ATG49371916016",
+    "id": 30
+},
+{
+    "domain": ".bestbuy.com",
+    "expirationDate": 1600342596.716888,
     "hostOnly": False,
     "httpOnly": False,
     "name": "globalUserTransition",
@@ -400,11 +428,25 @@ cookies = [
     "session": False,
     "storeId": "0",
     "value": "cba",
-    "id": 29
+    "id": 31
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1631752582,
+    "expirationDate": 3747825253.724221,
+    "hostOnly": False,
+    "httpOnly": True,
+    "name": "grid",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": True,
+    "session": False,
+    "storeId": "0",
+    "value": "True",
+    "id": 32
+},
+{
+    "domain": ".bestbuy.com",
+    "expirationDate": 1631877616,
     "hostOnly": False,
     "httpOnly": False,
     "name": "locDestZip",
@@ -413,12 +455,12 @@ cookies = [
     "secure": False,
     "session": False,
     "storeId": "0",
-    "value": "91303",
-    "id": 30
+    "value": "90001",
+    "id": 33
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1631752582,
+    "expirationDate": 1631877616,
     "hostOnly": False,
     "httpOnly": False,
     "name": "locStoreId",
@@ -427,12 +469,12 @@ cookies = [
     "secure": False,
     "session": False,
     "storeId": "0",
-    "value": "116",
-    "id": 31
+    "value": "1432",
+    "id": 34
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1600287193.582593,
+    "expirationDate": 1600343110.270514,
     "hostOnly": False,
     "httpOnly": False,
     "name": "ltc",
@@ -441,12 +483,12 @@ cookies = [
     "secure": False,
     "session": False,
     "storeId": "0",
-    "value": "%20",
-    "id": 32
+    "value": "10130",
+    "id": 35
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1915576580.498625,
+    "expirationDate": 1915701396.716791,
     "hostOnly": False,
     "httpOnly": False,
     "name": "oid",
@@ -455,12 +497,12 @@ cookies = [
     "secure": False,
     "session": False,
     "storeId": "0",
-    "value": "1933969532",
-    "id": 33
+    "value": "1700187698",
+    "id": 36
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1615838590,
+    "expirationDate": 1615894505,
     "hostOnly": False,
     "httpOnly": False,
     "name": "optimizelyEndUserId",
@@ -469,12 +511,26 @@ cookies = [
     "secure": False,
     "session": False,
     "storeId": "0",
-    "value": "oeu1600216580610r0.16787259986048775",
-    "id": 34
+    "value": "oeu1600341397544r0.15197401492046891",
+    "id": 37
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1608066174,
+    "expirationDate": 1600356838.474769,
+    "hostOnly": False,
+    "httpOnly": True,
+    "name": "PAYMENT_SECTKN",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": True,
+    "session": False,
+    "storeId": "0",
+    "value": "61d0ad24-18b1-4ace-b554-d41b07f8dc80",
+    "id": 38
+},
+{
+    "domain": ".bestbuy.com",
+    "expirationDate": 1608122106,
     "hostOnly": False,
     "httpOnly": False,
     "name": "physical_dma",
@@ -484,11 +540,11 @@ cookies = [
     "session": False,
     "storeId": "0",
     "value": "803",
-    "id": 35
+    "id": 39
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1608066174,
+    "expirationDate": 1608122106,
     "hostOnly": False,
     "httpOnly": False,
     "name": "pst2",
@@ -497,8 +553,22 @@ cookies = [
     "secure": False,
     "session": False,
     "storeId": "0",
-    "value": "116",
-    "id": 36
+    "value": "1432",
+    "id": 40
+},
+{
+    "domain": ".bestbuy.com",
+    "expirationDate": 1923304805.723652,
+    "hostOnly": False,
+    "httpOnly": False,
+    "name": "pt",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": False,
+    "session": False,
+    "storeId": "0",
+    "value": "3440346475",
+    "id": 41
 },
 {
     "domain": ".bestbuy.com",
@@ -511,11 +581,11 @@ cookies = [
     "session": True,
     "storeId": "0",
     "value": "True",
-    "id": 37
+    "id": 42
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1663358580.488618,
+    "expirationDate": 1663414508.536062,
     "hostOnly": False,
     "httpOnly": False,
     "name": "s_ecid",
@@ -524,8 +594,8 @@ cookies = [
     "secure": False,
     "session": False,
     "storeId": "0",
-    "value": "MCMID%7C78949028452210719631868911039568788805",
-    "id": 38
+    "value": "MCMID%7C16878531079190874092361089332587485072",
+    "id": 43
 },
 {
     "domain": ".bestbuy.com",
@@ -537,12 +607,26 @@ cookies = [
     "secure": False,
     "session": True,
     "storeId": "0",
-    "value": "bbymainprod%3D%2526pid%253DCheckout%25253A%252520Cart%252520-%252520Index%2526pidt%253D1%2526oid%253Dhttps%25253A%25252F%25252Fwww.bestbuy.com%25252Fsite%25252Fcorsair-tm30-performance-thermal-paste%25252F6318342.p%25253FskuId%25253D6318342%2526ot%253DA",
-    "id": 39
+    "value": "%5B%5BB%5D%5D",
+    "id": 44
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1631822574,
+    "expirationDate": 1663414508.536096,
+    "hostOnly": False,
+    "httpOnly": False,
+    "name": "s_vi",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": False,
+    "session": False,
+    "storeId": "0",
+    "value": "[CS]v1|2FB1A2E40515ACAE-6000065E25C81859[CE]",
+    "id": 45
+},
+{
+    "domain": ".bestbuy.com",
+    "expirationDate": 1631878506,
     "hostOnly": False,
     "httpOnly": False,
     "name": "sc-location-v2",
@@ -551,8 +635,22 @@ cookies = [
     "secure": False,
     "session": False,
     "storeId": "0",
-    "value": "%7B%22meta%22%3A%7B%22CreatedAt%22%3A%222020-09-16T00%3A36%3A22.113Z%22%2C%22ModifiedAt%22%3A%222020-09-16T20%3A02%3A54.811Z%22%2C%22ExpiresAt%22%3A%222021-09-16T20%3A02%3A54.811Z%22%7D%2C%22value%22%3A%22%7B%5C%22physical%5C%22%3A%7B%5C%22zipCode%5C%22%3A%5C%2291303%5C%22%2C%5C%22source%5C%22%3A%5C%22A%5C%22%2C%5C%22captureTime%5C%22%3A%5C%222020-09-16T00%3A36%3A22.113Z%5C%22%7D%2C%5C%22store%5C%22%3A%7B%5C%22zipCode%5C%22%3A%5C%2291303%5C%22%2C%5C%22searchZipCode%5C%22%3A%5C%2291303%5C%22%2C%5C%22storeId%5C%22%3A116%2C%5C%22storeHydratedCaptureTime%5C%22%3A%5C%222020-09-16T00%3A36%3A22.754Z%5C%22%7D%2C%5C%22destination%5C%22%3A%7B%5C%22zipCode%5C%22%3A%5C%2291303%5C%22%7D%7D%22%7D",
-    "id": 40
+    "value": "%7B%22meta%22%3A%7B%22CreatedAt%22%3A%222020-09-17T11%3A20%3A10.820Z%22%2C%22ModifiedAt%22%3A%222020-09-17T11%3A35%3A06.037Z%22%2C%22ExpiresAt%22%3A%222021-09-17T11%3A35%3A06.037Z%22%7D%2C%22value%22%3A%22%7B%5C%22physical%5C%22%3A%7B%5C%22zipCode%5C%22%3A%5C%2290001%5C%22%2C%5C%22source%5C%22%3A%5C%22A%5C%22%2C%5C%22captureTime%5C%22%3A%5C%222020-09-17T11%3A20%3A50.226Z%5C%22%7D%2C%5C%22store%5C%22%3A%7B%5C%22zipCode%5C%22%3A%5C%2290220%5C%22%2C%5C%22searchZipCode%5C%22%3A%5C%2290001%5C%22%2C%5C%22storeId%5C%22%3A%5C%221432%5C%22%2C%5C%22storeHydratedCaptureTime%5C%22%3A%5C%222020-09-17T11%3A20%3A50.917Z%5C%22%2C%5C%22userToken%5C%22%3A%5C%22d7a0a020-f8a2-11ea-a5a2-005056ae91c6%5C%22%7D%2C%5C%22destination%5C%22%3A%7B%5C%22zipCode%5C%22%3A%5C%2290001%5C%22%7D%7D%22%7D",
+    "id": 46
+},
+{
+    "domain": ".bestbuy.com",
+    "expirationDate": 1600356842.481482,
+    "hostOnly": False,
+    "httpOnly": True,
+    "name": "SECTKN",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": True,
+    "session": False,
+    "storeId": "0",
+    "value": "nuZAN+k6I9vs+Ud5asLU8dbP3aHB+xLnCFAymv3vIXG6SB8BW9wKJQ1lN+ihh62dDYrrB5oAJJyOHrw0Oyvx1UiNPfYZLL0edKKABplEXHckWqZbaMViK3KIOUFOzexgzNMVuoDDZl3hnAaozkskGA",
+    "id": 47
 },
 {
     "domain": ".bestbuy.com",
@@ -564,26 +662,12 @@ cookies = [
     "secure": False,
     "session": True,
     "storeId": "0",
-    "value": "9bd9b9e3-5e3a-41b7-99a8-a8d4516879d9",
-    "id": 41
+    "value": "3bc70777-fc34-448e-a386-adbec13965e0",
+    "id": 48
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1602825069,
-    "hostOnly": False,
-    "httpOnly": False,
-    "name": "sto__vuid",
-    "path": "/",
-    "sameSite": "unspecified",
-    "secure": False,
-    "session": False,
-    "storeId": "0",
-    "value": "12429094cb9f6488371c3c2def5a0795",
-    "id": 42
-},
-{
-    "domain": ".bestbuy.com",
-    "expirationDate": 1641698998.808725,
+    "expirationDate": 1641813405.424836,
     "hostOnly": False,
     "httpOnly": False,
     "name": "ui",
@@ -592,12 +676,12 @@ cookies = [
     "secure": False,
     "session": False,
     "storeId": "0",
-    "value": "1600226998576",
-    "id": 43
+    "value": "1600341405249",
+    "id": 49
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1923179778.340211,
+    "expirationDate": 1923304596.716405,
     "hostOnly": False,
     "httpOnly": False,
     "name": "UID",
@@ -606,12 +690,26 @@ cookies = [
     "secure": False,
     "session": False,
     "storeId": "0",
-    "value": "1b8a6065-8158-49bb-bb72-d9a90fbc2056",
-    "id": 44
+    "value": "6789e8c3-6dae-42c4-9eca-f564ae9dd6a9",
+    "id": 50
 },
 {
     "domain": ".bestbuy.com",
-    "expirationDate": 1608062578.066889,
+    "expirationDate": 1641814391.52598,
+    "hostOnly": False,
+    "httpOnly": False,
+    "name": "ut",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": False,
+    "session": False,
+    "storeId": "0",
+    "value": "d7a0a020-f8a2-11ea-a5a2-005056ae91c6",
+    "id": 51
+},
+{
+    "domain": ".bestbuy.com",
+    "expirationDate": 1631877396.716839,
     "hostOnly": False,
     "httpOnly": False,
     "name": "vt",
@@ -620,8 +718,21 @@ cookies = [
     "secure": False,
     "session": False,
     "storeId": "0",
-    "value": "a3a05925-f7b4-11ea-af1c-0a72bc3da7a7",
-    "id": 45
+    "value": "3ffaf639-f8d7-11ea-914e-0a021a454721",
+    "id": 52
+},
+{
+    "domain": ".bestbuy.com",
+    "hostOnly": False,
+    "httpOnly": True,
+    "name": "ZPLANK",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": True,
+    "session": True,
+    "storeId": "0",
+    "value": "d6f041805926430fb524eaa0e8581853",
+    "id": 53
 },
 {
     "domain": ".www.bestbuy.com",
@@ -633,8 +744,8 @@ cookies = [
     "secure": True,
     "session": True,
     "storeId": "0",
-    "value": "v_4_srv_31_sn_NQJ3QK2L38CLAQV4U56J78J1555DMSIM_app-3Ae82a6d064c2ef554_1_ol_0_perc_100000_mul_1",
-    "id": 46
+    "value": "v_4_srv_27_sn_GBH70KCJ5JK93HIUJDKNTTKJ5UFSCJ5K_app-3Ae82a6d064c2ef554_1_app-3A514f54d0afd9bd9a_1_ol_0_perc_100000_mul_1",
+    "id": 54
 },
 {
     "domain": ".www.bestbuy.com",
@@ -646,8 +757,8 @@ cookies = [
     "secure": True,
     "session": True,
     "storeId": "0",
-    "value": "1",
-    "id": 47
+    "value": "4",
+    "id": 55
 },
 {
     "domain": ".www.bestbuy.com",
@@ -659,8 +770,8 @@ cookies = [
     "secure": True,
     "session": True,
     "storeId": "0",
-    "value": "31$86575330_608h-vKUMPEKNPNHVJLFCAIRRFSVFFUTKHEMPB-0e2",
-    "id": 48
+    "value": "27$142506396_171h-vNFKQTHQEWPMIRTFAUDBGWVHIEARLFUOP-0e1",
+    "id": 56
 },
 {
     "domain": ".www.bestbuy.com",
@@ -672,8 +783,8 @@ cookies = [
     "secure": True,
     "session": True,
     "storeId": "0",
-    "value": "True%7CC%7C-1%7CCORSAIR%20-%20TM30%20Performance%20Thermal%20Paste%7C-%7C1600286588613%7C86575330_608%7Chttps%3A%2F%2Fwww.bestbuy.com%2Fcart%7CCart%20-%20Best%20Buy%7C1600286578619%7C%7C",
-    "id": 49
+    "value": "-",
+    "id": 57
 },
 {
     "domain": ".www.bestbuy.com",
@@ -687,7 +798,7 @@ cookies = [
     "session": False,
     "storeId": "0",
     "value": "google",
-    "id": 50
+    "id": 58
 },
 {
     "domain": ".www.bestbuy.com",
@@ -699,8 +810,8 @@ cookies = [
     "secure": True,
     "session": True,
     "storeId": "0",
-    "value": "1600285103664G4NOF6TGKOCR5BR14BPTB1K9CVKTT7PJ",
-    "id": 51
+    "value": "16003416204906IE5507Q5PHOST4S3KDF77NEBBH734H8",
+    "id": 59
 },
 {
     "domain": ".www.bestbuy.com",
@@ -712,12 +823,12 @@ cookies = [
     "secure": True,
     "session": True,
     "storeId": "0",
-    "value": "1600288389945|1600285103667",
-    "id": 52
+    "value": "1600344309631|1600341620493",
+    "id": 60
 },
 {
     "domain": "www.bestbuy.com",
-    "expirationDate": 1608062575,
+    "expirationDate": 1608118505,
     "hostOnly": True,
     "httpOnly": False,
     "name": "52245",
@@ -727,7 +838,7 @@ cookies = [
     "session": False,
     "storeId": "0",
     "value": "",
-    "id": 53
+    "id": 61
 },
 {
     "domain": "www.bestbuy.com",
@@ -739,35 +850,8 @@ cookies = [
     "secure": True,
     "session": True,
     "storeId": "0",
-    "value": "0f44fd481b9bbc1296f73eba6281aa46",
-    "id": 54
-},
-{
-    "domain": "www.bestbuy.com",
-    "expirationDate": 1600313732,
-    "hostOnly": True,
-    "httpOnly": False,
-    "name": "CRTOABE",
-    "path": "/",
-    "sameSite": "unspecified",
-    "secure": False,
-    "session": False,
-    "storeId": "0",
-    "value": "0",
-    "id": 55
-},
-{
-    "domain": "www.bestbuy.com",
-    "hostOnly": True,
-    "httpOnly": False,
-    "name": "tfs_upg",
-    "path": "/site/corsair-tm30-performance-thermal-paste",
-    "sameSite": "unspecified",
-    "secure": False,
-    "session": True,
-    "storeId": "0",
-    "value": "True",
-    "id": 56
+    "value": "24ac81c166111bc935732952ec31cf14",
+    "id": 62
 },
 {
     "domain": "www.bestbuy.com",
@@ -780,6 +864,6 @@ cookies = [
     "session": True,
     "storeId": "0",
     "value": "True",
-    "id": 57
+    "id": 63
 }
 ]

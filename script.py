@@ -10,7 +10,7 @@ from saved_cookies import cookies
 from saved_data import submit_shipping_body
 from saved_data import submit_payment_body
 
-def best_buy(link, data):
+def best_buy():
     session = requests.Session()
 
     print_separator = '_______________________________________________________________________'
@@ -55,6 +55,7 @@ def best_buy(link, data):
         'sec-fetch-dest': 'empty',
         'referer': link,
         'accept-language': 'en-US,en;q=0.9',
+	'cookie': formatted_cookies
     }
 
     headers = {
@@ -127,8 +128,9 @@ def best_buy(link, data):
             "accept-language": "en-US,en;q=0.9",
             "upgrade-insecure-requests": "1",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36",
+	    "cookie": formatted_cookies
         }
-    fulfillment = session.get('https://www.bestbuy.com/checkout/r/fulfillment', headers=ff_headers)
+    #fulfillment = session.get('https://www.bestbuy.com/checkout/r/fulfillment', headers=ff_headers)
 
     address = session.patch('https://www.bestbuy.com/checkout/orders/{}/'.format(basket_id), json=body, headers=headers)
     address_dict = json.loads(address.text)
@@ -159,14 +161,14 @@ def best_buy(link, data):
         "country":"US",
         "useAddressAsBilling":True,
         "middleInitial":"",
-        "lastName":"",
+        "lastName":"ALTOV",
         "isWishListAddress":False,
-        "city":"",
+        "city":"WOODLAND HILLS",
         "state":"CA",
-        "firstName":"",
-        "addressLine1":"",
-        "addressLine2":"",
-        "dayPhone":"",
+        "firstName":"Vladimir",
+        "addressLine1":"5757 OWENSMOUTH AVE",
+        "addressLine2":"UNIT 10",
+        "dayPhone":"8185858122",
         "postalCode":"91367",
         "userOverridden":False
     },
@@ -191,3 +193,15 @@ def best_buy(link, data):
     }
     }
     credit = session.put('https://www.bestbuy.com/payment/api/v1/payment/{}/creditCard'.format(payment_id), json=body, headers=headers)
+
+    fin_body = {  "browserInfo":{
+      "javaEnabled":False,
+      "language":"en-US",
+      "userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36",
+      "height":"1415",
+      "width":"1415",
+      "timeZone":"420",
+      "colorDepth":"24"
+      }
+    }
+    finalize = session.post('https://www.bestbuy.com/checkout/orders/{}/'.format(basket_id), json=fin_body, headers=headers)
